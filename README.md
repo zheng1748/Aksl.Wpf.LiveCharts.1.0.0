@@ -1,0 +1,1 @@
+# Aksl.Wpf.LiveCharts.1.0.0
