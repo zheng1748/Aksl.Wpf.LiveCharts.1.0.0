@@ -4,16 +4,16 @@
 		  Name="All"
 		  Level="0" >
 	<MenuItem Id="1"
-			  Name="Home"
-			  Title="主页"
+			  Name="Defaulter"
+			  Title="默认"
 			  Level="1"
 			  IconKind="HomeUser"
 			  ModuleName=""
 			  ViewName="">
-		<MenuItem Id="1"
+		<MenuItem Id="2"
 				  Name="Home"
 				  Title="主页"
-				  Level="1"
+				  Level="2"
 				  IsHome="True"
 				  IsSelectedOnInitialize="True"
 				  IconKind="Home"
@@ -23,7 +23,7 @@
 		</MenuItem>
 	</MenuItem>
 	<MenuItem Id="2"
-			  Name="AxesManager"
+			  Name="Axeser"
 			  Title="Axes"
 			  Level="2"
 			  IconKind="Axe"
