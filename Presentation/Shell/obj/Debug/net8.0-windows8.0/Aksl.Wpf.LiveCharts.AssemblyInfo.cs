@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aksl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55b67f00e2a6bd63d7cd6fa7fa7976815366487e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aksl.Wpf.LiveCharts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aksl.Wpf.LiveCharts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
