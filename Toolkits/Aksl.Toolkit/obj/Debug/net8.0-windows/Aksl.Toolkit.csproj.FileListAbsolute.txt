@@ -451,3 +451,4 @@ C:\Users\zheng\Documents\GitHub\Aksl.Wpf.LiveCharts.1.0.0\Toolkits\Aksl.Toolkit\
 C:\Users\zheng\Documents\GitHub\Aksl.Wpf.LiveCharts.1.0.0\Toolkits\Aksl.Toolkit\obj\Debug\net8.0-windows\refint\Aksl.Toolkit.dll
 C:\Users\zheng\Documents\GitHub\Aksl.Wpf.LiveCharts.1.0.0\Toolkits\Aksl.Toolkit\obj\Debug\net8.0-windows\Aksl.Toolkit.pdb
 C:\Users\zheng\Documents\GitHub\Aksl.Wpf.LiveCharts.1.0.0\Toolkits\Aksl.Toolkit\obj\Debug\net8.0-windows\ref\Aksl.Toolkit.dll
+C:\Users\zheng\Documents\GitHub\Aksl.Wpf.LiveCharts.1.0.0\Toolkits\Aksl.Toolkit\obj\Debug\net8.0-windows\Aksl.Toolkit.sourcelink.json

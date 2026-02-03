@@ -46,8 +46,8 @@
 		      WorkspaceRegionName=""
 		      WorkspaceViewEventName=""
 		      ModuleName=""
-		     ViewName=""
-		     IsNextNavigation="True"
-		     NavigationName="Bars">
+		      ViewName=""
+		      IsNextNavigation="True"
+		      NavigationName="Bars">
    </MenuItem>
 </MenuItem>

@@ -282,3 +282,4 @@ C:\Users\zheng\Documents\GitHub\Aksl.Wpf.LiveCharts.1.0.0\Toolkits\Aksl.Toolkit.
 C:\Users\zheng\Documents\GitHub\Aksl.Wpf.LiveCharts.1.0.0\Toolkits\Aksl.Toolkit.Controls\obj\Debug\net8.0-windows\refint\Aksl.Toolkit.Controls.dll
 C:\Users\zheng\Documents\GitHub\Aksl.Wpf.LiveCharts.1.0.0\Toolkits\Aksl.Toolkit.Controls\obj\Debug\net8.0-windows\Aksl.Toolkit.Controls.pdb
 C:\Users\zheng\Documents\GitHub\Aksl.Wpf.LiveCharts.1.0.0\Toolkits\Aksl.Toolkit.Controls\obj\Debug\net8.0-windows\ref\Aksl.Toolkit.Controls.dll
+C:\Users\zheng\Documents\GitHub\Aksl.Wpf.LiveCharts.1.0.0\Toolkits\Aksl.Toolkit.Controls\obj\Debug\net8.0-windows\Aksl.Toolkit.Controls.sourcelink.json

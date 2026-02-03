@@ -230,3 +230,4 @@ C:\Users\zheng\Documents\GitHub\Aksl.Wpf.LiveCharts.1.0.0\Toolkits\Prism Library
 C:\Users\zheng\Documents\GitHub\Aksl.Wpf.LiveCharts.1.0.0\Toolkits\Prism Library\Prism.Core\obj\Debug\net8.0\refint\Prism.dll
 C:\Users\zheng\Documents\GitHub\Aksl.Wpf.LiveCharts.1.0.0\Toolkits\Prism Library\Prism.Core\obj\Debug\net8.0\Prism.pdb
 C:\Users\zheng\Documents\GitHub\Aksl.Wpf.LiveCharts.1.0.0\Toolkits\Prism Library\Prism.Core\obj\Debug\net8.0\ref\Prism.dll
+C:\Users\zheng\Documents\GitHub\Aksl.Wpf.LiveCharts.1.0.0\Toolkits\Prism Library\Prism.Core\obj\Debug\net8.0\Prism.Core.sourcelink.json

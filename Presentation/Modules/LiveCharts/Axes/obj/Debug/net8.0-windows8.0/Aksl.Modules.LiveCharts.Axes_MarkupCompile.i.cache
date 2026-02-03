@@ -16,5 +16,5 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 217-543172387
 ColorsAndPositionView.xaml;CrosshairsView.xaml;
 
-False
+True
 
