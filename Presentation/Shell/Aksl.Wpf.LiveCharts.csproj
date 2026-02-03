@@ -16,6 +16,7 @@
 		<None Remove="Configuration\appsettings.json" />
 		<None Remove="Data\AllMenus.xml" />
 		<None Remove="Data\Axes.xml" />
+		<None Remove="Data\Bars.xml" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -27,6 +28,9 @@
 	<ItemGroup>
 		<Resource Include="Data\AllMenus.xml">
 			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="Data\Bars.xml">
+		  <CopyToOutputDirectory>Never</CopyToOutputDirectory>
 		</Resource>
 		<Resource Include="Data\Axes.xml">
 			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
@@ -67,6 +71,7 @@
 		<ProjectReference Include="..\Modules\Account\Account.csproj" />
 		<ProjectReference Include="..\Modules\Home\Home.csproj" />
 		<ProjectReference Include="..\Modules\LiveCharts\Axes\Axes.csproj" />
+		<ProjectReference Include="..\Modules\LiveCharts\Bars\Bars.csproj" />
 		<ProjectReference Include="..\Modules\SideBars\HamburgerMenuNavigationSideBarTab\HamburgerMenuNavigationSideBarTab.csproj" />
 		<ProjectReference Include="..\Modules\SideBars\HamburgerMenuSideBarTab\HamburgerMenuSideBarTab.csproj" />
 		<ProjectReference Include="..\Modules\SideBars\HamburgerMenuTreeSideBarTab\HamburgerMenuTreeSideBarTab.csproj" />

@@ -15,6 +15,7 @@
           "Aksl.Modules.HamburgerMenuTreeSideBarTab": "1.0.0",
           "Aksl.Modules.Home": "1.0.0",
           "Aksl.Modules.LiveCharts.Axes": "1.0.0",
+          "Aksl.Modules.LiveCharts.Bars": "1.0.0",
           "Aksl.Toolkit": "1.0.0",
           "Aksl.Toolkit.Controls": "1.0.0",
           "CommonServiceLocator": "2.0.7",
@@ -46,6 +47,7 @@
           "Aksl.Modules.HamburgerMenuTreeSideBarTab.Reference": "1.0.0.0",
           "Aksl.Modules.Home.Reference": "1.0.0.0",
           "Aksl.Modules.LiveCharts.Axes.Reference": "1.0.0.0",
+          "Aksl.Modules.LiveCharts.Bars.Reference": "1.0.0.0",
           "Prism.Unity.Wpf": "1.0.0.0"
         },
         "runtime": {
@@ -632,6 +634,20 @@
           "Aksl.Modules.LiveCharts.Axes.dll": {}
         }
       },
+      "Aksl.Modules.LiveCharts.Bars/1.0.0": {
+        "dependencies": {
+          "Aksl.Infrastructure": "1.0.0",
+          "Aksl.Toolkit": "1.0.0",
+          "Aksl.Toolkit.Controls": "1.0.0",
+          "LiveChartsCore.SkiaSharpView.WPF": "2.0.0-rc5.4",
+          "Prism.Core": "1.0.0",
+          "Prism.Unity": "1.0.0",
+          "Prism.Wpf": "1.0.0"
+        },
+        "runtime": {
+          "Aksl.Modules.LiveCharts.Bars.dll": {}
+        }
+      },
       "Aksl.Toolkit/1.0.0": {
         "dependencies": {
           "Microsoft.Xaml.Behaviors.Wpf": "1.1.77",
@@ -715,6 +731,14 @@
       "Aksl.Modules.LiveCharts.Axes.Reference/1.0.0.0": {
         "runtime": {
           "Aksl.Modules.LiveCharts.Axes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Aksl.Modules.LiveCharts.Bars.Reference/1.0.0.0": {
+        "runtime": {
+          "Aksl.Modules.LiveCharts.Bars.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1093,6 +1117,11 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Aksl.Modules.LiveCharts.Bars/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Aksl.Toolkit/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -1144,6 +1173,11 @@
       "sha512": ""
     },
     "Aksl.Modules.LiveCharts.Axes.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aksl.Modules.LiveCharts.Bars.Reference/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

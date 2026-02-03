@@ -31,9 +31,23 @@
 			  IsCacheable="True"
 			  WorkspaceRegionName=""
 			  WorkspaceViewEventName=""
-			  ModuleName=""
-			  ViewName=""
-			  IsNextNavigation="True"
+			  ModuleName="HamburgerMenuSideBarTabModule"
+              ViewName="Aksl.Modules.HamburgerMenuSideBarTab.Views.HamburgerMenuSideBarTabHubView,Aksl.Modules.HamburgerMenuSideBarTab"
+              IsNextNavigation="False"
 			  NavigationName="Axes">
 	</MenuItem>
+    <MenuItem Id="2"
+		      Name="Barser"
+		      Title="Bars"
+	    	  Level="2"
+		      IconKind="Bar"
+		      ItemType="Item"
+		      IsCacheable="True"
+		      WorkspaceRegionName=""
+		      WorkspaceViewEventName=""
+		      ModuleName=""
+		     ViewName=""
+		     IsNextNavigation="True"
+		     NavigationName="Bars">
+   </MenuItem>
 </MenuItem>

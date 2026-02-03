@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MenuItem Id="0"
+		  Name="Bars"
+		  Title="Root"
+		  Level="0" >
+	<MenuItem Id="1"
+			  Name="AutoUpdateView"
+			  Title="Auto Update"
+			  Level="1"
+			  IsCacheable="False"
+			  IconKind="Update"
+			  ItemType="Item"
+			  ModuleName="BarsModule"
+			  ViewName="Aksl.Modules.LiveCharts.Bars.Views.AutoUpdateView,Aksl.Modules.LiveCharts.Bars">
+	</MenuItem>
+	<MenuItem Id="2"
+			  Name="Basic"
+			  Title="Basic"
+			  Level="1"
+			  IsCacheable="True"
+			  IconKind="CellphoneBasic"
+			  ItemType="Item"
+			  ModuleName="BarsModule"
+			  ViewName="Aksl.Modules.LiveCharts.Bars.Views.BarsBasicView,Aksl.Modules.LiveCharts.Bars">
+	</MenuItem>
+</MenuItem>
+
+

@@ -983,6 +983,28 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
+      "Aksl.Modules.LiveCharts.Bars/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Aksl.Infrastructure": "1.0.0",
+          "Aksl.Toolkit": "1.0.0",
+          "Aksl.Toolkit.Controls": "1.0.0",
+          "LiveChartsCore.SkiaSharpView.WPF": "2.0.0-rc5.4",
+          "Prism.Core": "1.0.0",
+          "Prism.Unity": "1.0.0",
+          "Prism.Wpf": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Aksl.Modules.LiveCharts.Bars.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Aksl.Modules.LiveCharts.Bars.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "Aksl.Toolkit/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -2623,6 +2645,11 @@
       "path": "../Modules/LiveCharts/Axes/Axes.csproj",
       "msbuildProject": "../Modules/LiveCharts/Axes/Axes.csproj"
     },
+    "Aksl.Modules.LiveCharts.Bars/1.0.0": {
+      "type": "project",
+      "path": "../Modules/LiveCharts/Bars/Bars.csproj",
+      "msbuildProject": "../Modules/LiveCharts/Bars/Bars.csproj"
+    },
     "Aksl.Toolkit/1.0.0": {
       "type": "project",
       "path": "../../Toolkits/Aksl.Toolkit/Aksl.Toolkit.csproj",
@@ -2658,6 +2685,7 @@
       "Aksl.Modules.HamburgerMenuTreeSideBarTab >= 1.0.0",
       "Aksl.Modules.Home >= 1.0.0",
       "Aksl.Modules.LiveCharts.Axes >= 1.0.0",
+      "Aksl.Modules.LiveCharts.Bars >= 1.0.0",
       "Aksl.Toolkit >= 1.0.0",
       "Aksl.Toolkit.Controls >= 1.0.0",
       "CommonServiceLocator >= 2.0.7",
@@ -2728,6 +2756,9 @@
             },
             "C:\\Users\\zheng\\Documents\\GitHub\\Aksl.Wpf.LiveCharts.1.0.0\\Presentation\\Modules\\LiveCharts\\Axes\\Axes.csproj": {
               "projectPath": "C:\\Users\\zheng\\Documents\\GitHub\\Aksl.Wpf.LiveCharts.1.0.0\\Presentation\\Modules\\LiveCharts\\Axes\\Axes.csproj"
+            },
+            "C:\\Users\\zheng\\Documents\\GitHub\\Aksl.Wpf.LiveCharts.1.0.0\\Presentation\\Modules\\LiveCharts\\Bars\\Bars.csproj": {
+              "projectPath": "C:\\Users\\zheng\\Documents\\GitHub\\Aksl.Wpf.LiveCharts.1.0.0\\Presentation\\Modules\\LiveCharts\\Bars\\Bars.csproj"
             },
             "C:\\Users\\zheng\\Documents\\GitHub\\Aksl.Wpf.LiveCharts.1.0.0\\Presentation\\Modules\\SideBars\\HamburgerMenuNavigationSideBarTab\\HamburgerMenuNavigationSideBarTab.csproj": {
               "projectPath": "C:\\Users\\zheng\\Documents\\GitHub\\Aksl.Wpf.LiveCharts.1.0.0\\Presentation\\Modules\\SideBars\\HamburgerMenuNavigationSideBarTab\\HamburgerMenuNavigationSideBarTab.csproj"
